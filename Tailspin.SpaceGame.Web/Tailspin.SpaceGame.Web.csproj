@@ -9,3 +9,4 @@
     <Folder Include="wwwroot\images\avatars\" />
   </ItemGroup>
 </Project>
+<IsPackable>true</IsPackable>
